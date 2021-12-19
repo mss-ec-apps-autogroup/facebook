@@ -3,5 +3,4 @@ This line is updatd
 This line is updated again
 
 updating in master branch
-
-udating again
+updating manually in remote repo
