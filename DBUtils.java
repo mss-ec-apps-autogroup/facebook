@@ -8,3 +8,5 @@ updating manually in remote repo
 checking once again
 
 checking for git stash
+
+testing for git cherry
