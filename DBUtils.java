@@ -6,3 +6,5 @@ updating in master branch
 updating manually in remote repo
 
 checking once again
+
+checking for git stash
