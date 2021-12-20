@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 .classpath
 .settings
 /node_modules
+=======
+.settings
+.classpath
+/node_modules/
+>>>>>>> master
